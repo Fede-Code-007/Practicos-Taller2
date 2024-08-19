@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\",
+  "WorkspaceRootPath": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|c:\\users\\natal\\desktop\\practicos-taller2\\practico3\\practico3\\practico3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|c:\\users\\natal\\desktop\\practicos-taller2\\practico3\\practico3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|solutionrelative:practico3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|c:\\users\\natal\\desktop\\practicos-taller2\\practico3\\practico3\\practico3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|c:\\users\\natal\\desktop\\practicos-taller2\\practico3\\practico3\\my project\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|solutionrelative:practico3\\my project\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|c:\\users\\natal\\desktop\\practicos-taller2\\practico3\\practico3\\practico3.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|solutionrelative:practico3\\practico3.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|c:\\users\\natal\\desktop\\practicos-taller2\\practico3\\practico3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|solutionrelative:practico3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|c:\\users\\natal\\desktop\\practicos-taller2\\practico3\\practico3\\practico3\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|c:\\users\\natal\\desktop\\practicos-taller2\\practico3\\practico3\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{F0BC6D5C-12A7-42CA-81F1-7F87FFF71977}|Practico3\\Practico3.vbproj|solutionrelative:practico3\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -22,17 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\My Project\\Resources.resx",
+              "RelativeDocumentMoniker": "Practico3\\My Project\\Resources.resx",
+              "ToolTip": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\My Project\\Resources.resx",
+              "RelativeToolTip": "Practico3\\My Project\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-19T18:09:42.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Practico3",
+              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Practico3.vbproj",
+              "RelativeDocumentMoniker": "Practico3\\Practico3.vbproj",
+              "ToolTip": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Practico3.vbproj",
+              "RelativeToolTip": "Practico3\\Practico3.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-08-19T18:09:08.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Application.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Practico3\\My Project\\Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\My Project\\Application.Designer.vb",
               "RelativeDocumentMoniker": "Practico3\\My Project\\Application.Designer.vb",
-              "ToolTip": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Practico3\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\My Project\\Application.Designer.vb",
               "RelativeToolTip": "Practico3\\My Project\\Application.Designer.vb",
-              "ViewState": "AQIAABcAAAAAAAAAAIAwwB8AAAA3AAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAIA9wB8AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-08-19T12:28:34.212Z",
               "EditorCaption": ""
@@ -41,22 +73,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Practico3\\Form1.vb",
+              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Form1.vb",
               "RelativeDocumentMoniker": "Practico3\\Form1.vb",
-              "ToolTip": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Practico3\\Form1.vb",
+              "ToolTip": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Form1.vb",
               "RelativeToolTip": "Practico3\\Form1.vb",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAACwAAAAqAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-08-19T12:11:54.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Practico3\\Form1.vb",
+              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Form1.vb",
               "RelativeDocumentMoniker": "Practico3\\Form1.vb",
-              "ToolTip": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Practico3\\Form1.vb [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico3\\Practico3\\Form1.vb [Dise\u00F1o]",
               "RelativeToolTip": "Practico3\\Form1.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-08-19T12:02:01.71Z",

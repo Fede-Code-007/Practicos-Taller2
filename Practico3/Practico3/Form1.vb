@@ -51,4 +51,24 @@
             End If
         End If
     End Sub
+
+    Private Sub LDni_Click(sender As Object, e As EventArgs) Handles LDni.Click
+
+    End Sub
+
+    Private Sub BSalir_Click(sender As Object, e As EventArgs) Handles BSalir.Click
+        Me.Close()
+    End Sub
+
+    Private Sub RBVaron_CheckedChanged(sender As Object, e As EventArgs) Handles RBVaron.CheckedChanged
+        If RBVaron.Checked Then
+            PictureBox1.BackgroundImage = My.Resources.VaronIcono
+        End If
+    End Sub
+
+    Private Sub RBMujer_CheckedChanged(sender As Object, e As EventArgs) Handles RBMujer.CheckedChanged
+        If RBMujer.Checked Then
+            PictureBox1.BackgroundImage = My.Resources.MujerIcono
+        End If
+    End Sub
 End Class
