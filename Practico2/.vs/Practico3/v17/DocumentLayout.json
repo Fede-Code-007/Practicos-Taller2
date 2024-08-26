@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natal\\Downloads\\Practicos1eraParte_grupo3\\Practicos1eraParte_grupo3\\Practico2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|c:\\users\\natal\\downloads\\practicos1eraparte_grupo3\\practicos1eraparte_grupo3\\practico2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|c:\\users\\natal\\downloads\\practicos1eraparte_grupo3\\practicos1eraparte_grupo3\\practico2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|c:\\users\\natal\\downloads\\practicos1eraparte_grupo3\\practicos1eraparte_grupo3\\practico2\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|c:\\users\\natal\\downloads\\practicos1eraparte_grupo3\\practicos1eraparte_grupo3\\practico2\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B581FF8C-4AC7-4584-B3C4-58924F74E010}|Practico3.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\natal\\Downloads\\Practicos1eraParte_grupo3\\Practicos1eraParte_grupo3\\Practico2\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\natal\\Downloads\\Practicos1eraParte_grupo3\\Practicos1eraParte_grupo3\\Practico2\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-16T11:18:28.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\natal\\Downloads\\Practicos1eraParte_grupo3\\Practicos1eraParte_grupo3\\Practico2\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\natal\\Downloads\\Practicos1eraParte_grupo3\\Practicos1eraParte_grupo3\\Practico2\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-16T11:04:06.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\natal\\Downloads\\Practicos1eraParte_grupo3\\Practicos1eraParte_grupo3\\Practico2\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\natal\\Downloads\\Practicos1eraParte_grupo3\\Practicos1eraParte_grupo3\\Practico2\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-16T11:52:46.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\natal\\Downloads\\Practicos1eraParte_grupo3\\Practicos1eraParte_grupo3\\Practico2\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\natal\\Downloads\\Practicos1eraParte_grupo3\\Practicos1eraParte_grupo3\\Practico2\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-16T10:52:02.09Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,0 @@
-C:\Users\natal\Desktop\Practicos-Taller2\Practico2\Practico3\obj\Debug\net8.0-windows\Practico2.PequeñoFormulario.resources
-C:\Users\natal\Desktop\Practicos-Taller2\Practico2\Practico3\obj\Debug\net8.0-windows\Practico2.vbproj.GenerateResource.cache
-C:\Users\natal\Desktop\Practicos-Taller2\Practico2\Practico3\obj\Debug\net8.0-windows\Practico2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\natal\Desktop\Practicos-Taller2\Practico2\Practico3\obj\Debug\net8.0-windows\Practico2.AssemblyInfoInputs.cache
-C:\Users\natal\Desktop\Practicos-Taller2\Practico2\Practico3\obj\Debug\net8.0-windows\Practico2.AssemblyInfo.vb
-C:\Users\natal\Desktop\Practicos-Taller2\Practico2\Practico3\obj\Debug\net8.0-windows\Practico2.vbproj.CoreCompileInputs.cache
-C:\Users\natal\Desktop\Practicos-Taller2\Practico2\Practico3\obj\Debug\net8.0-windows\Practico2.sourcelink.json
