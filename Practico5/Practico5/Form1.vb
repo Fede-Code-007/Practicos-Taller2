@@ -50,10 +50,14 @@
         Else
             sexo = "Mujer"
         End If
-        If Decimal.Parse(TSaldo.Text) < 50 Then
-            DataGridView1.Rows(DataGridView1.Rows.Add(TApellido.Text, TNombre.Text, DateTimePicker1.Value, sexo, "eliminar", TSaldo.Text, PictureBox1.Image, TFoto.Text)).DefaultCellStyle.BackColor = Color.Red
+        If TNombre.Text = "" Or TApellido.Text = "" Or TSaldo.Text = "" Then
+            MsgBox("Debe completar todos los campos", vbCritical, "Error")
         Else
-            DataGridView1.Rows.Add(TApellido.Text, TNombre.Text, DateTimePicker1.Value, sexo, "eliminar", TSaldo.Text, PictureBox1.Image, TFoto.Text)
+            If Decimal.Parse(TSaldo.Text) < 50 Then
+                DataGridView1.Rows(DataGridView1.Rows.Add(TApellido.Text, TNombre.Text, DateTimePicker1.Value, sexo, "eliminar", TSaldo.Text, PictureBox1.Image, TFoto.Text)).DefaultCellStyle.BackColor = Color.Red
+            Else
+                DataGridView1.Rows.Add(TApellido.Text, TNombre.Text, DateTimePicker1.Value, sexo, "eliminar", TSaldo.Text, PictureBox1.Image, TFoto.Text)
+            End If
         End If
     End Sub
 
@@ -65,6 +69,12 @@
                 ' Eliminar la fila seleccionada
                 DataGridView1.Rows.RemoveAt(e.RowIndex)
             End If
+        End If
+    End Sub
+
+    Private Sub TSaldo_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TSaldo.KeyPress
+        If Not Char.IsDigit(e.KeyChar) AndAlso Not Char.IsControl(e.KeyChar) Then
+            e.Handled = True
         End If
     End Sub
 End Class
