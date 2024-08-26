@@ -22,8 +22,8 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle1 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle3 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle4 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Panel1 = New Panel()
         BFoto = New Button()
         RBMujer = New RadioButton()
@@ -48,7 +48,7 @@ Partial Class Form1
         Sexo = New DataGridViewTextBoxColumn()
         Eliminar = New DataGridViewButtonColumn()
         Saldo = New DataGridViewTextBoxColumn()
-        Foto = New DataGridViewTextBoxColumn()
+        Foto = New DataGridViewImageColumn()
         Ruta = New DataGridViewTextBoxColumn()
         Panel1.SuspendLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
@@ -250,15 +250,15 @@ Partial Class Form1
         ' 
         ' Apellido
         ' 
-        DataGridViewCellStyle1.Font = New Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Apellido.DefaultCellStyle = DataGridViewCellStyle1
+        DataGridViewCellStyle3.Font = New Font("Papyrus", 10F, FontStyle.Bold)
+        Apellido.DefaultCellStyle = DataGridViewCellStyle3
         Apellido.HeaderText = "Apellido"
         Apellido.Name = "Apellido"
         ' 
         ' Nombre
         ' 
-        DataGridViewCellStyle2.Font = New Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Nombre.DefaultCellStyle = DataGridViewCellStyle2
+        DataGridViewCellStyle4.Font = New Font("Papyrus", 9.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Nombre.DefaultCellStyle = DataGridViewCellStyle4
         Nombre.HeaderText = "Nombre"
         Nombre.Name = "Nombre"
         ' 
@@ -289,7 +289,10 @@ Partial Class Form1
         ' Foto
         ' 
         Foto.HeaderText = "Foto"
+        Foto.ImageLayout = DataGridViewImageCellLayout.Stretch
         Foto.Name = "Foto"
+        Foto.Resizable = DataGridViewTriState.True
+        Foto.SortMode = DataGridViewColumnSortMode.Automatic
         ' 
         ' Ruta
         ' 
@@ -306,6 +309,7 @@ Partial Class Form1
         Controls.Add(PictureBox1)
         Controls.Add(Panel1)
         Name = "Form1"
+        StartPosition = FormStartPosition.CenterScreen
         Text = "Formulario con Grid"
         Panel1.ResumeLayout(False)
         Panel1.PerformLayout()
@@ -338,7 +342,7 @@ Partial Class Form1
     Friend WithEvents Sexo As DataGridViewTextBoxColumn
     Friend WithEvents Eliminar As DataGridViewButtonColumn
     Friend WithEvents Saldo As DataGridViewTextBoxColumn
-    Friend WithEvents Foto As DataGridViewTextBoxColumn
+    Friend WithEvents Foto As DataGridViewImageColumn
     Friend WithEvents Ruta As DataGridViewTextBoxColumn
 
 End Class
