@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EAA025-A051-4BC6-9E6E-E416F7D4092F}|Practico5\\Practico5.vbproj|c:\\users\\natal\\desktop\\practicos-taller2\\practico5\\practico5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C0EAA025-A051-4BC6-9E6E-E416F7D4092F}|Practico5\\Practico5.vbproj|solutionrelative:practico5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EAA025-A051-4BC6-9E6E-E416F7D4092F}|Practico5\\Practico5.vbproj|c:\\users\\natal\\desktop\\practicos-taller2\\practico5\\practico5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C0EAA025-A051-4BC6-9E6E-E416F7D4092F}|Practico5\\Practico5.vbproj|solutionrelative:practico5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EAA025-A051-4BC6-9E6E-E416F7D4092F}|Practico5\\Practico5.vbproj|c:\\users\\natal\\desktop\\practicos-taller2\\practico5\\practico5\\practico5.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C0EAA025-A051-4BC6-9E6E-E416F7D4092F}|Practico5\\Practico5.vbproj|solutionrelative:practico5\\practico5.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practico5",
+              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico5\\Practico5\\Practico5.vbproj",
+              "RelativeDocumentMoniker": "Practico5\\Practico5.vbproj",
+              "ToolTip": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico5\\Practico5\\Practico5.vbproj",
+              "RelativeToolTip": "Practico5\\Practico5.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-08-21T17:15:30.314Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico5\\Practico5\\Form1.vb",
+              "RelativeDocumentMoniker": "Practico5\\Form1.vb",
+              "ToolTip": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico5\\Practico5\\Form1.vb",
+              "RelativeToolTip": "Practico5\\Form1.vb",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-21T17:12:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico5\\Practico5\\Form1.vb",
+              "RelativeDocumentMoniker": "Practico5\\Form1.vb",
+              "ToolTip": "C:\\Users\\natal\\Desktop\\Practicos-Taller2\\Practico5\\Practico5\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Practico5\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-21T17:08:08.466Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
