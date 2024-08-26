@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Practico5"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a9d4f8611e8db603bf17310cac70eb2648805ad"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168c24f2df5293158090df8dad556e048feaab34"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Practico5"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Practico5"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

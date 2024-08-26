@@ -44,8 +44,27 @@
     End Sub
 
     Private Sub BAgregar_Click(sender As Object, e As EventArgs) Handles BAgregar.Click
+        Dim sexo As String
+        If RBHombre.Checked Then
+            sexo = "Hombre"
+        Else
+            sexo = "Mujer"
+        End If
+        If Decimal.Parse(TSaldo.Text) < 50 Then
+            DataGridView1.Rows(DataGridView1.Rows.Add(TApellido.Text, TNombre.Text, DateTimePicker1.Value, sexo, "eliminar", TSaldo.Text, PictureBox1.Image, TFoto.Text)).DefaultCellStyle.BackColor = Color.Red
+        Else
+            DataGridView1.Rows.Add(TApellido.Text, TNombre.Text, DateTimePicker1.Value, sexo, "eliminar", TSaldo.Text, PictureBox1.Image, TFoto.Text)
+        End If
+    End Sub
 
-        DataGridView1.Rows.Add(TApellido.Text, TNombre.Text, DateTimePicker1, , , TSaldo.Text, PictureBox1, TFoto.Text)
-
+    Private Sub DataGridView1_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
+        If e.ColumnIndex = DataGridView1.Columns("Eliminar").Index Then
+            ' Mostrar un mensaje de confirmación antes de eliminar
+            Dim result As DialogResult = MessageBox.Show("¿Desea eliminar este registro?", "Confirmar Eliminación", MessageBoxButtons.YesNo)
+            If result = DialogResult.Yes Then
+                ' Eliminar la fila seleccionada
+                DataGridView1.Rows.RemoveAt(e.RowIndex)
+            End If
+        End If
     End Sub
 End Class

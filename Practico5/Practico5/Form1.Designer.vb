@@ -22,8 +22,8 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle3 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle4 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle1 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As DataGridViewCellStyle = New DataGridViewCellStyle()
         Panel1 = New Panel()
         BFoto = New Button()
         RBMujer = New RadioButton()
@@ -46,7 +46,7 @@ Partial Class Form1
         Nombre = New DataGridViewTextBoxColumn()
         FechaNacimiento = New DataGridViewTextBoxColumn()
         Sexo = New DataGridViewTextBoxColumn()
-        Eliminar = New DataGridViewTextBoxColumn()
+        Eliminar = New DataGridViewButtonColumn()
         Saldo = New DataGridViewTextBoxColumn()
         Foto = New DataGridViewTextBoxColumn()
         Ruta = New DataGridViewTextBoxColumn()
@@ -250,15 +250,15 @@ Partial Class Form1
         ' 
         ' Apellido
         ' 
-        DataGridViewCellStyle3.Font = New Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Apellido.DefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle1.Font = New Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Apellido.DefaultCellStyle = DataGridViewCellStyle1
         Apellido.HeaderText = "Apellido"
         Apellido.Name = "Apellido"
         ' 
         ' Nombre
         ' 
-        DataGridViewCellStyle4.Font = New Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Nombre.DefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle2.Font = New Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Nombre.DefaultCellStyle = DataGridViewCellStyle2
         Nombre.HeaderText = "Nombre"
         Nombre.Name = "Nombre"
         ' 
@@ -276,6 +276,10 @@ Partial Class Form1
         ' 
         Eliminar.HeaderText = "Eliminar"
         Eliminar.Name = "Eliminar"
+        Eliminar.Resizable = DataGridViewTriState.True
+        Eliminar.SortMode = DataGridViewColumnSortMode.Automatic
+        Eliminar.Text = "Eliminar"
+        Eliminar.UseColumnTextForButtonValue = True
         ' 
         ' Saldo
         ' 
@@ -332,7 +336,7 @@ Partial Class Form1
     Friend WithEvents Nombre As DataGridViewTextBoxColumn
     Friend WithEvents FechaNacimiento As DataGridViewTextBoxColumn
     Friend WithEvents Sexo As DataGridViewTextBoxColumn
-    Friend WithEvents Eliminar As DataGridViewTextBoxColumn
+    Friend WithEvents Eliminar As DataGridViewButtonColumn
     Friend WithEvents Saldo As DataGridViewTextBoxColumn
     Friend WithEvents Foto As DataGridViewTextBoxColumn
     Friend WithEvents Ruta As DataGridViewTextBoxColumn
