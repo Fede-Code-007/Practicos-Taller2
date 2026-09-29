@@ -192,9 +192,10 @@ Practicos-Taller2/
 │
 ├── Practico5/
 │   └── Practico5/
-│       ├── Form1.vb
-│       ├── Resources/
-│       └── Practico5.vbproj
+│   │   ├── Form1.vb
+│   │   ├── Resources/
+│   │   └── Practico5.vbproj
+│   └── Practico5.sln
 │
 └── README.md
 ```
