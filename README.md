@@ -167,7 +167,7 @@ Entre las funcionalidades implementadas se encuentran:
 La estructura general del repositorio es:
 
 ```text
-Practicos-Taller2/
+practicos-taller2/
 │
 ├── Practico1/
 │   ├── Form1.vb
